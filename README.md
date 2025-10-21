@@ -17,6 +17,9 @@
 * Среди птиц с ЧМТ наиболее часто встречаются такие виды птиц, как вальдшнеп, дрозд рябинник и дятел большой пёстрый.
 
 Стек: SQL, PostgreSQL, Dbeaver, Tableau.
+
+**Посмотреть дашборд:**
+[Ключевые показатели Центра реабилитации диких птиц "Воронье гнездо"](https://public.tableau.com/views/_17607068390240/sheet9?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 <table>
   <tr>
     <td style="text-align: center;">
